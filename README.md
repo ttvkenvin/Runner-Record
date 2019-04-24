@@ -13,7 +13,12 @@ Caractéristiques:
 Commencez votre chemin vers le sport!
 
 # Screenshot
-![image]()
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/1.png)
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/2.png)
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/3.png)
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/x1.png)
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/x2.png)
+![image](https://github.com/ttvkenvin/Runner-Record/blob/master/x3.png)
 
 # Japanese: ランナー記録
 ランナー記録ランナーのためのプロのアプリ。
